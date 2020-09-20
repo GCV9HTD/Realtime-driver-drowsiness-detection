@@ -4,7 +4,9 @@ It will show in realtime if eyes are open or closed, and score for each category
 
 # Requirements
 
-Requirements of the project can be downloaded using requirements.txt file. Run pip3 install -r requirements.txt (Python 3)
+Requirements of the project can be downloaded using requirements.txt file. 
+
+Run pip3 install -r requirements.txt (Python 3)
  
 # Usage
 
